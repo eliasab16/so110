@@ -32,7 +32,7 @@ The design .stl files can be found [here.](hardware/modified_gripper)
 
 ### 3. Arcs for screwdrivers
 
-Credits:
+## Credits:
 
 * I worked on the designs and modification in collaboration with @dotdotdotquestionmark.
 * Parallel-jaws gripper original design: @norma-core
