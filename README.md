@@ -1,3 +1,5 @@
+WORK-IN-PROGRESS
+
 # SO-110
 
 ## Grippers
@@ -14,11 +16,13 @@ This version includes several design modifications:
 
 * Added notches on the inside of the jaws to support mouting arcs that can be used to grasp cylinderical tools (e.g. screw driver). See the "attachments" section.
 
-![Gripper side view](images/gripper-side.jpeg)
-![Gripper top-down view 1](images/gripper-top-down.jpeg)
-![Gripper top-down view 2](images/gripper-top-side.jpeg)
+<p>
+  <img src="images/gripper-side.jpeg" alt="preview" width="200" height="240" style="display:inline-block; margin-right:8px;">
+  <img src="images/gripper-top-down.jpg" alt="preview" width="200" height="240" style="display:inline-block; margin-right:8px;">
+  <img src="images/gripper-top-side.jpg" alt="preview" width="200" height="240" style="display:inline-block;">
+</p>
 
-STL files:
+The design .stl files can be found [here.](hardware/modified_gripper)
 
 ## Attachments
 
