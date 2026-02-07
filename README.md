@@ -28,9 +28,7 @@ The design .stl files can be found [here.](hardware/modified_gripper)
 
 ### 1. Height and tilt-adjustable wrist camera mounts
 
-<p>
-    <video src="images/camera_mounts_demo.mp4" width="400" controls></video>
-</p>
+https://github.com/user-attachments/assets/957fd91d-6abd-45eb-9cc1-369022933ae7
 
 #### Note: this is designed for the InnoMaker USB 2.0 UVC camera (or cameras with similar dimensions where the distance between the holes is 28mm). If you need help with adapting to other cameras, please open an issue on this repo.
 
